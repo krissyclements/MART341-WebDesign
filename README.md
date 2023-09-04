@@ -1,2 +1,2 @@
-# MART341-WebDesign
+# Krissy Clements MART341-WebDesign
 Intro to Web Design Homework
