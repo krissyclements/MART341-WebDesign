@@ -6,5 +6,3 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 [Click Here](https://www.nytimes.com/)
 
 [My File](./responses.txt)
-
-![screenshot](./images/screenshot.png)
