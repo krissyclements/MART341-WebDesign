@@ -1,5 +1,5 @@
-<h1>Week 5 Homework<h1>
+## Week 5 Homework
 Here is my link to my hosted site and my screenshot of GitHub Desktop
-<bre />
-<img src="./images/screenshot.png" />
-<bre />
+file:///Users/krissyclements/Desktop/web%20design/assignment5/index.html
+
+![Github Desktop](./images/screenshot.png)
