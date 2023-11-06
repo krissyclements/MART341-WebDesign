@@ -1,0 +1,45 @@
+body{
+    font-family: glacial indifference;
+}
+
+.main-container {
+    
+    /* Draw a double border make it orange*/
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(252, 76, 2);
+    /*Add space between the border and its inside elements. */
+    padding: 10px;
+    /* Color the background teal. */
+    background : rgb(0, 142, 151);
+    width: 90%;
+    margin: auto;
+}
+
+div.align{
+    text-align: center;
+}
+
+.secondary-container{
+    
+    margin: auto;
+    width:70%;
+    padding: 50px;
+    border-bottom: 4px rgb(0, 87, 120) solid;
+    border-spacing: inherit;
+}
+
+#mainheader{
+    font-family: cubano;
+    position: center;
+    text-align: center;
+    color: white;
+    opacity: 1;
+    font-size: 60px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
