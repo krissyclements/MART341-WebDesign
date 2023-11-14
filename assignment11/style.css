@@ -1,0 +1,60 @@
+/* Reset some default styles to ensure consistency across browsers */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Set a background color for the whole page */
+body {
+    background-color: #7c5f5f;
+    font-family: glacial indifference;
+}
+
+/* Style the header */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+/* Style the main content area */
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style headings and paragraphs */
+h1 {
+    color: #000000;
+    font-family: Amoret Script Alt;
+    font-size: 300%;
+}
+
+p {
+    line-height: 1.6;
+}
+
+/* Style links */
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+button {
+    background-color: #303030;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #7c5f5f; 
+}
